@@ -19,7 +19,7 @@ OSGi framework implementations are the kernel of your OSGi runtime. While you co
 ## OSGi based Containers
 
 ### Apache Karaf
-[Apache Karaf](http://karaf.apache.org) is an opinionated OSGi distributions that comes with read-made solutions for common operation topics such as:
+[Apache Karaf](http://karaf.apache.org) is an opinionated OSGi distributions that comes with ready-made solutions for common operation topics such as:
 * Hot deployment
 * Complete Console
 * Dynamic Configuration* Advanced Logging System
